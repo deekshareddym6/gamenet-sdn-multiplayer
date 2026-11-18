@@ -1,0 +1,16 @@
+{"name": "off_0M_alice", "recv": 600, "lost_gap": 0, "dup": 0, "ooo": 0, "avg_delay_ms": 0.47418514887491864, "jitter_ms": 0.25099470112547684}
+{"name": "off_0M_bob", "recv": 600, "lost_gap": 0, "dup": 0, "ooo": 0, "avg_delay_ms": 0.47599315643310547, "jitter_ms": 0.18736766111765646}
+{"name": "dynamic_0M_bob", "recv": 600, "lost_gap": 0, "dup": 0, "ooo": 0, "avg_delay_ms": 0.8324285348256429, "jitter_ms": 0.6759594282428576}
+{"name": "dynamic_0M_alice", "recv": 600, "lost_gap": 0, "dup": 0, "ooo": 0, "avg_delay_ms": 0.8945004145304362, "jitter_ms": 0.8036904264983122}
+{"name": "off_5M_bob", "recv": 600, "lost_gap": 0, "dup": 0, "ooo": 0, "avg_delay_ms": 1.9457364082336426, "jitter_ms": 0.24514178137191633}
+{"name": "off_5M_alice", "recv": 600, "lost_gap": 0, "dup": 0, "ooo": 0, "avg_delay_ms": 1.8761169910430908, "jitter_ms": 0.29846268975739826}
+{"name": "dynamic_5M_bob", "recv": 600, "lost_gap": 0, "dup": 0, "ooo": 0, "avg_delay_ms": 4.6414585908253985, "jitter_ms": 0.42545747988184884}
+{"name": "dynamic_5M_alice", "recv": 600, "lost_gap": 0, "dup": 0, "ooo": 0, "avg_delay_ms": 5.171756744384766, "jitter_ms": 0.2894201515061092}
+{"name": "off_10M_alice", "recv": 600, "lost_gap": 0, "dup": 0, "ooo": 0, "avg_delay_ms": 541.736159324646, "jitter_ms": 8.107260512331399}
+{"name": "off_10M_bob", "recv": 600, "lost_gap": 0, "dup": 0, "ooo": 0, "avg_delay_ms": 541.9837296009064, "jitter_ms": 8.099234948309332}
+{"name": "dynamic_10M_alice", "recv": 593, "lost_gap": 7, "dup": 0, "ooo": 7, "avg_delay_ms": 10.87118280677731, "jitter_ms": 0.15438204539056657}
+{"name": "dynamic_10M_bob", "recv": 592, "lost_gap": 8, "dup": 0, "ooo": 8, "avg_delay_ms": 10.857750435133237, "jitter_ms": 0.29612284488254326}
+{"name": "off_20M_alice", "recv": 596, "lost_gap": 4, "dup": 0, "ooo": 4, "avg_delay_ms": 651.0039115912163, "jitter_ms": 86.38368720892421}
+{"name": "off_20M_bob", "recv": 596, "lost_gap": 4, "dup": 0, "ooo": 4, "avg_delay_ms": 649.3661623673152, "jitter_ms": 86.67970911320847}
+{"name": "dynamic_20M_bob", "recv": 587, "lost_gap": 13, "dup": 0, "ooo": 13, "avg_delay_ms": 49.22389253034705, "jitter_ms": 0.4682795715546405}
+{"name": "dynamic_20M_alice", "recv": 588, "lost_gap": 12, "dup": 0, "ooo": 12, "avg_delay_ms": 49.91479349785111, "jitter_ms": 0.45067388409172626}

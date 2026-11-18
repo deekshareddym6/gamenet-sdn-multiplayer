@@ -1,0 +1,4 @@
+load_Mbps,detection_delay_s
+5,not_detected
+10,2.84
+20,3.03
