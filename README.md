@@ -50,7 +50,7 @@ flowchart LR
       H2["h2 · player alice"] --- S1(("s1<br/>Open vSwitch"))
       H3["h3 · player bob"]   --- S1
       H4["h4 · noise source"] --- S1
-      S1 ==="10 Mbps bottleneck<br/>queue 0 best-effort · queue 1 game"=== H1["h1 · game server<br/>UDP 5000 + noise sink 5001"]
+      S1 ==>|"10 Mbps bottleneck · queue 0 best-effort · queue 1 game"| H1["h1 · game server<br/>UDP 5000 + noise sink 5001"]
     end
     C["Ryu controller<br/>OpenFlow 1.3 · :6653"] <-->|"flow rules ⇄ port stats (1 s)"| S1
     H1 -. "JOIN / LEAVE events<br/>logs/game_events.jsonl" .-> C
