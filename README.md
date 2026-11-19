@@ -31,7 +31,7 @@ that gives game packets a priority queue **only while the link is congested**.
 | PES2UG25CS152 | **Deeksha M Reddy** | SDN architecture and network configuration: Mininet topology, Open vSwitch, Ryu controller, UDP-port-5000 traffic classification, QoS queues and priority rules |
 | PES2UG25CS180 | **G M Hrithick** | Integration, measurement and testing: UDP↔SDN integration, latency / RTT / jitter measurement, connectivity and loss testing, server-statistics analysis, results |
 
-## Requirements covered
+### Requirements covered
 | Project requirement | Where |
 |---|---|
 | UDP game-state updates | `game_client.py` → `game_server.py` (STATE / WORLD) |
