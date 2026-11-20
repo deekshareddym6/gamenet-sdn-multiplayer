@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Multiplayer Game Communication Network
+## 🎮 Multiplayer Game Communication Network
 ### UDP game traffic + SDN priority queuing (Mininet · Open vSwitch · Ryu)
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
